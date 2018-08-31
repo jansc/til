@@ -6,18 +6,24 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_1 TIL and counting..._
+_2 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Bash](#bash)
+* [Emacs](#emacs)
+
 
 ---
 ### Bash
 
 - [Repeating a command with sudo](bash/repeating-a-command-with-sudo.md)
+
+### Emacs
+
+- [Displaying total logged time of a tree in org-mode](emacs/displaying-total-logged-time-of-a-tree-in-org-mode.md)
 
 ## About
 
