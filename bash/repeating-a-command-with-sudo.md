@@ -4,7 +4,7 @@ Sometimes I forget to run a command as sudo. Bash comes to help and can repeat t
 
 ```bash
 $ pacman -Suy docker
-Sorry, user jans is not allowed to execute {command} as root.
+Sorry, you need to be root to execute docker.
 $ sudo !!
 sudo pacman -Suy docker
 [sudo] passord for jans:  
