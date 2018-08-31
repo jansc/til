@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
@@ -14,7 +14,7 @@ _2 TILs and counting..._
 
 * [Bash](#bash)
 * [Emacs](#emacs)
-
+* [Linux](#linux)
 
 ---
 ### Bash
@@ -24,6 +24,10 @@ _2 TILs and counting..._
 ### Emacs
 
 - [Displaying total logged time of a tree in org-mode](emacs/displaying-total-logged-time-of-a-tree-in-org-mode.md)
+
+### Linux
+
+- [Using p12-certificates for VPN in Gnome Network Manager](linux/using-p12-certificates-for-vpn.md)
 
 ## About
 
