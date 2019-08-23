@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_3 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
@@ -26,9 +26,10 @@ _3 TILs and counting..._
 
 - [Displaying total logged time of a tree in org-mode](emacs/displaying-total-logged-time-of-a-tree-in-org-mode.md)
 
-### Linux
+### Linux/Unix
 
 - [Using p12-certificates for VPN in Gnome Network Manager](linux/using-p12-certificates-for-vpn.md)
+- [Creating a group and becoming a member without logout/login](linux/creating-a-group-and-becoming-a-member-without-logout-login.md)
 
 ## About
 
@@ -46,7 +47,7 @@ I shamelessly stole this idea from
 
 ## License
 
-&copy; 2018 Jan Schreiber
+&copy; 2018-2019 Jan Schreiber
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
