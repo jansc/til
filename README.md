@@ -20,6 +20,7 @@ _5 TILs and counting..._
 ### Bash
 
 - [Repeating a command with sudo](bash/repeating-a-command-with-sudo.md)
+- [Resetting the backspace key](bash/resetting-the-backspace-key.md)
 - [Expose directory on local webserver with Python 3](bash/expose-directory-on-local-webserver-with-python3.md)
 
 ### Emacs
