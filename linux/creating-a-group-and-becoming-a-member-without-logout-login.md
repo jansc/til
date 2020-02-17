@@ -5,9 +5,9 @@ was not allowed to access /dev/ttyUSB0, because the user was not part of the uuc
 Adding a user to a group is easy on Arch/Manjaro:
 
 ```bash
-$ gpasswd -d user group
+$ gpasswd -a [user] [group]
 or in my case:
-$ gpasswd -d jans uucp
+$ gpasswd -a jans uucp
 ```
 
 But to become a member of the group without having to logout and login a neat utility
