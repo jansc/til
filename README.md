@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
@@ -31,6 +31,10 @@ _5 TILs and counting..._
 
 - [Using p12-certificates for VPN in Gnome Network Manager](linux/using-p12-certificates-for-vpn.md)
 - [Creating a group and becoming a member without logout/login](linux/creating-a-group-and-becoming-a-member-without-logout-login.md)
+
+### Rust
+
+- [Upgrading packages in Cargo.tom](rust/upgrading-packages-in-cargo-toml.md)
 
 ## About
 
