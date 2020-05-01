@@ -15,6 +15,7 @@ _6 TILs and counting..._
 * [Bash](#bash)
 * [Emacs](#emacs)
 * [Linux](#linux)
+* [Rust](#rust)
 
 ---
 ### Bash
@@ -34,7 +35,7 @@ _6 TILs and counting..._
 
 ### Rust
 
-- [Upgrading packages in Cargo.tom](rust/upgrading-packages-in-cargo-toml.md)
+- [Upgrading packages in Cargo.toml](rust/upgrading-packages-in-cargo-toml.md)
 
 ## About
 
