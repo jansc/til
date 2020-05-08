@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_6 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
@@ -35,6 +35,7 @@ _6 TILs and counting..._
 
 ### Rust
 
+- [Cargo dependency tree](rust/cargo-dependency-tree.md)
 - [Upgrading packages in Cargo.toml](rust/upgrading-packages-in-cargo-toml.md)
 
 ## About
@@ -53,7 +54,7 @@ I shamelessly stole this idea from
 
 ## License
 
-&copy; 2018-2019 Jan Schreiber
+&copy; 2018-2020 Jan Schreiber
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
