@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -20,6 +20,7 @@ _8 TILs and counting..._
 ---
 ### Bash
 
+- [Changing the default shell](bash/changing-the-default-shell.md)
 - [Repeating a command with sudo](bash/repeating-a-command-with-sudo.md)
 - [Resetting the backspace key](bash/resetting-the-backspace-key.md)
 - [Expose directory on local webserver with Python 3](bash/expose-directory-on-local-webserver-with-python3.md)
