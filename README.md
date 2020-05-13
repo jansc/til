@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_9 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
@@ -14,7 +14,7 @@ _9 TILs and counting..._
 
 * [Bash](#bash)
 * [Emacs](#emacs)
-* [Linux](#linux)
+* [Unix](#unix)
 * [Rust](#rust)
 
 ---
@@ -29,10 +29,11 @@ _9 TILs and counting..._
 
 - [Displaying total logged time of a tree in org-mode](emacs/displaying-total-logged-time-of-a-tree-in-org-mode.md)
 
-### Linux/Unix
+### Unix/Linux
 
-- [Using p12-certificates for VPN in Gnome Network Manager](linux/using-p12-certificates-for-vpn.md)
-- [Creating a group and becoming a member without logout/login](linux/creating-a-group-and-becoming-a-member-without-logout-login.md)
+- [Exiting SSH when frozen](unix/exiting-ssh-when-frozen.md)
+- [Creating a group and becoming a member without logout/login](unix/creating-a-group-and-becoming-a-member-without-logout-login.md)
+- [Using p12-certificates for VPN in Gnome Network Manager](unix/using-p12-certificates-for-vpn.md)
 
 ### Rust
 
