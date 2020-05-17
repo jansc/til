@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
@@ -31,6 +31,7 @@ _10 TILs and counting..._
 
 ### Unix/Linux
 
+- [Composing keys in X11](unix/composing-keys-in-x11.md)
 - [Exiting SSH when frozen](unix/exiting-ssh-when-frozen.md)
 - [Creating a group and becoming a member without logout/login](unix/creating-a-group-and-becoming-a-member-without-logout-login.md)
 - [Using p12-certificates for VPN in Gnome Network Manager](unix/using-p12-certificates-for-vpn.md)
