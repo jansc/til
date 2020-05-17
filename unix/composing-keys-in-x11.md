@@ -16,3 +16,6 @@ at the terminal (no X11 restart required) or in my keyboard.conf with
 
     Option          "XkbOptions" "compose:caps"
 
+Now, I can hit `CAPS` followed by the accent and the character which I want
+to add an accent to.
+
