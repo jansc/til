@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _12 TILs and counting..._
 * [Bash](#bash)
 * [Emacs](#emacs)
 * [Unix](#unix)
+* [Python](#python)
 * [Rust](#rust)
 
 ---
@@ -36,6 +37,10 @@ _12 TILs and counting..._
 - [Generating Ed25519 Keys](unix/generating-ed25519-keys.md)
 - [Creating a group and becoming a member without logout/login](unix/creating-a-group-and-becoming-a-member-without-logout-login.md)
 - [Using p12-certificates for VPN in Gnome Network Manager](unix/using-p12-certificates-for-vpn.md)
+
+### Python
+
+- [Upgrading install packages](python/upgrading-installed-packages.md)
 
 ### Rust
 
