@@ -33,7 +33,7 @@ _14 TILs and counting..._
 ### Unix/Linux
 
 - [Composing keys in X11](unix/composing-keys-in-x11.md)
-- [Ejecting a CD on FreeBSD](unix/ejcting-a-cd-on-freebsd.md)
+- [Ejecting a CD on FreeBSD](unix/ejecting-a-cd-on-freebsd.md)
 - [Exiting SSH when frozen](unix/exiting-ssh-when-frozen.md)
 - [Generating Ed25519 Keys](unix/generating-ed25519-keys.md)
 - [Creating a group and becoming a member without logout/login](unix/creating-a-group-and-becoming-a-member-without-logout-login.md)
