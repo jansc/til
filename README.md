@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -33,6 +33,7 @@ _13 TILs and counting..._
 ### Unix/Linux
 
 - [Composing keys in X11](unix/composing-keys-in-x11.md)
+- [Ejecting a CD on FreeBSD](unix/ejcting-a-cd-on-freebsd.md)
 - [Exiting SSH when frozen](unix/exiting-ssh-when-frozen.md)
 - [Generating Ed25519 Keys](unix/generating-ed25519-keys.md)
 - [Creating a group and becoming a member without logout/login](unix/creating-a-group-and-becoming-a-member-without-logout-login.md)
