@@ -32,7 +32,7 @@ _15 TILs and counting..._
 
 ### Nginx
 
-- [Custom content type](nginx/custom-conten-type.md)
+- [Custom content type](nginx/custom-content-type.md)
 
 ### Unix/Linux
 
