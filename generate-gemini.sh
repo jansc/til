@@ -17,9 +17,9 @@ do
   done
 done
 
-md2gemini README.md > index.gmi
-sed -i'.bak' -e 's/\.md/\.gmi/g' index.gmi
-rm index.gmi.bak
+md2gemini README.md > til.gmi
+sed -i'.bak' -e 's/\.md/\.gmi/g' til.gmi
+rm til.gmi.bak
 
 FILES=`find . -name \*.gmi`
 for file in $FILES
