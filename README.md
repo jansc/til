@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_16 TILs and counting..._
+_17 TILs and counting..._
 
 ---
 
@@ -36,6 +36,7 @@ _16 TILs and counting..._
 
 ### Unix/Linux
 
+- [Changing user database information](unix/changing-user-database-information.md)
 - [Composing keys in X11](unix/composing-keys-in-x11.md)
 - [Create a self-signed certificate with OpenSSL](unix/create-self-signed-certificate.md)
 - [Ejecting a CD on FreeBSD](unix/ejecting-a-cd-on-freebsd.md)
