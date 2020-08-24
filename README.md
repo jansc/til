@@ -14,6 +14,8 @@ _17 TILs and counting..._
 
 * [Bash](#bash)
 * [Emacs](#emacs)
+* [Javascript](#javascript)
+* [Nginx](#nginx)
 * [Unix](#unix)
 * [Python](#python)
 * [Rust](#rust)
@@ -29,6 +31,10 @@ _17 TILs and counting..._
 ### Emacs
 
 - [Displaying total logged time of a tree in org-mode](emacs/displaying-total-logged-time-of-a-tree-in-org-mode.md)
+
+### Javascript
+
+- [Node module dependency tree](javascript/node-dependency-tree.md)
 
 ### Nginx
 
